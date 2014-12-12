@@ -1,4 +1,38 @@
-p{
-	font-size: 12px;
-	color: purple;
+body{
+	background-color:
+	font-size: 1.5em;
+	font-size: 18px;
+	color: white;
+	font-family: centaur, candara, serif;
+    background-color: #006206;
+    margin: 40px;
+    padding: 20px;
+	text-align: center;
+	border-style: ridge;
+	border-bottom-color: #c800a9;
+	border-left-color: #030b56;
+	border-right-color: #030b56;
+	border-top-color: #c800a9;
+	border-width: 20px
+}
+nav{
+	text-align: left;
+	
+}
+h1{
+	font-family: "Adobe Gothic Std B", Aharoni, serif;
+	font-size: 4em;
+	color: #7764fd;
+	
+}
+h2{
+	font-family: "Adobe Gothic Std B", Aharoni, serif;
+	font-size: 1em;
+	color: #c2f700;
+}
+h3{
+	font-family: "Adobe Gothic Std B", Aharoni, serif;
+	font-size: 2em;
+	color: black;
+	font-weight: bolder;
 }
