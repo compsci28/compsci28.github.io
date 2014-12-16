@@ -1,24 +1,60 @@
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+nav li{
+	padding-left: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+nav a{
+	color: #030b56;
+	text-decoration: none;
+	display: block;
+	width: 115px;
+}
+
+nav{
+	background-color: #3261ce;
+	position: fixed;
+	top: 80;
+	text-align: left;
+	font-weight: bold;
+}
+
 body{
-	background-color:
 	font-size: 1.5em;
 	font-size: 18px;
-	color: white;
+	color: black;
 	font-family: centaur, candara, serif;
-    background-color: #006206;
+    background-color: #769aed;
     margin: 40px;
     padding: 20px;
 	text-align: center;
 	border-style: ridge;
-	border-bottom-color: #c800a9;
+	border-bottom-color: #d3dffd;
 	border-left-color: #030b56;
 	border-right-color: #030b56;
-	border-top-color: #c800a9;
+	border-top-color: #d3dffd;
 	border-width: 20px
 }
-nav{
-	text-align: left;
-	
+
+#partofthe{
+	background-color: white;
+	padding-left: 20px;
+	padding-right: 20PX;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
 }
+
 h1{
 	font-family: "Adobe Gothic Std B", Aharoni, serif;
 	font-size: 4em;
