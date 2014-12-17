@@ -55,6 +55,35 @@ body{
 	margin-right: 200px;
 }
 
+#stepone{
+	transform: rotate(180deg);
+	padding: 10px;
+}
+#steptwo{
+	transform: rotate(90deg);
+	padding: 10px;
+}
+#steptwob{
+	transform: rotate(90deg);
+	padding: 10px;
+}
+#stepthree{
+	transform: rotate(90deg);
+	padding: 10px;
+}
+#stepthreeb{
+	transform: rotate(90deg);
+	padding: 10px;
+}
+#stepfive{
+	transform: rotate(180deg);
+	padding: 10px;
+}
+#stepfivec{
+	transform: rotate(180deg);
+	padding: 10px;
+}
+
 h1{
 	font-family: "Adobe Gothic Std B", Aharoni, serif;
 	font-size: 4em;
